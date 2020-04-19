@@ -25,3 +25,4 @@ const integer = (num) => {
 }
 
 integer(100);
+integer(30);
